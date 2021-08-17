@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.svx": "svelte",
+        "*.html": "html",
+        "functional": "cpp"
+    },
+    "discord.enabled": false
+}

@@ -1,6 +1,6 @@
 # Boushi
 
-<img align="right" src="https://github.com/ninjawarrior1337/boushi/blob/master/showcase/logo.png?raw=true" alt="Boushi Logo" height="128"/>
+<img align="right" src="https://github.com/ninjawarrior1337/boushi/blob/main/showcase/logo.png?raw=true" alt="Boushi Logo" height="128"/>
 
 ## A 2D Array of LEDs on a graduation cap
 Alright since I was dumb and didn't plan correctly, I never actually got to use this during graduation. Administration took our phones for the ceremony which sucks as I thought I would never be let in with the hat but then one of my friends walked in with an Apple Watch so I probably was able to. Not that it would've mattered anyway because the LEDs were too dark to see in direct sunlight.

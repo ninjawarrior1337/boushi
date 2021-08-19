@@ -24,7 +24,7 @@ The project only uses 2 main components
 
 It is controlled by a WebUI written in Svelte and images can be added to to the hat by either drawing them in the WebUI or adding them to the `img` folder and having the custom Go program convert them to FastLED instructions
 
-## This is **HIGHLY** not user friendly to build and was built for personal use, but if you whttps://github.com/ninjawarrior1337/boushiant to try to get it to work, have fun!
+## This is **HIGHLY** not user friendly to build and was built for personal use, but if you want to try to get it to work, have fun!
 
 # How to Build (Software)
 
